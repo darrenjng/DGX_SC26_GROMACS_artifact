@@ -1,0 +1,11 @@
+test-water/grompp.out
+test-water/mdout.mdp
+test-water/topol.tpr
+test-water/*.log
+test-water/*.time
+test-water/*.cpt
+test-water/*.edr
+test-water/*.gro
+test-water/*_prev.cpt
+test-water/#*
+!test-water/conf.gro

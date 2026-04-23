@@ -1,0 +1,8 @@
+#include "oplsaa.ff/forcefield.itp"
+#include "oplsaa.ff/spc.itp"
+
+[ system ]
+Pure SPC water box
+
+[ molecules ]
+SOL 216
